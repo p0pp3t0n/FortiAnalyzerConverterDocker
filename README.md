@@ -9,7 +9,7 @@ The Dockerfile is self-explanatory, it will expose the application on 0.0.0.0 po
 
 ```
 git clone https://github.com/p0pp3t0n/FortiAnalyzerConverterDocker
-docker-compose build .
+docker-compose build
 docker-compose up -d
 ```
 
